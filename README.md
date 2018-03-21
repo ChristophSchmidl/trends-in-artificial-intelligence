@@ -15,3 +15,21 @@ This repository contains all assignments for the course "Trends in Artificial In
 
 * **C - Scientific, societal and technological relevance (if applicable)**
 	* Can the outcome of this research significantly contribute to the answering of societal and/or technological questions?
+
+## Project proposal form
+
+* Student name
+* Student number
+* E-mail address
+* Theme
+
+1. **Title of research project**
+2. **Abstract** (max 100 words)
+3. **Project description** (max 2000 words)
+	* **Background of project (theory, state of the art)**
+	* **Aim of the project (research question, motivation, impact, importance)**
+	* **Research plan (approach, methods, design, analyses)**
+4. **Schedule** (max. 1 page)
+	* **Specifically state the start and end dates of the various phases of the research project**
+5. **Scientific, societal, and/or technological relevance** (max. 250 words)
+6. **References** (max.20)	
